@@ -1,0 +1,15 @@
+
+// by Storming Robots .  http://www.stormingrobots.com
+
+This group of robotC code is to help you understand how to incoporate: 
+- NXT color on NXT
+- EV3 color on EV3
+
+or 
+
+If you are working on either EV3 or NXT, and would like to have a single file to toggle back and forth by simply switch platform, you should use: 
+ colorBasic-nxt-ev3-struct.c
+or 
+ colorBasic-nxt-ev3-array.c 
+ 
+ They both show you how to do that by using ether array or struct style. 
